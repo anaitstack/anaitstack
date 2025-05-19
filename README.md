@@ -6,7 +6,6 @@ I turn coffee into clean code, curiosity into projects, and complexity into teac
 
 Skills: HTML / CSS / Tailwind CSS / JS / React JS / Next JS /Node JS / Express JS / Firebase / MongoDB / PostgreSQL / Prisma / Redux / SQL / Mongose / Docker / AWS / Vitest / Jest / GraphQL
 
-- 🔭 I’m currently working on this page. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/anaitstack)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/%20anaitullahdev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/anayet198)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/anaitullah198/#/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.anaitullah.me/)  
